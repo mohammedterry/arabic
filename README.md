@@ -15,3 +15,5 @@ T = ط
 S = ص
 D = ض
 Dh = ظ
+
+![](https://raw.github.com/mohammedterry/arabic/master/ex2.png)
