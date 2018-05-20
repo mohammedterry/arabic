@@ -2,7 +2,7 @@
 converts simple arabic transliteration into arabic with diacritics
 
 e.g.
-![](https://raw.github.com/mohammedterry/arabic/master/ex.png)
+![](https://raw.github.com/mohammedterry/arabic/master/ex1.png)
 
 input: raw, lazy transliteration --> output: refined transliteration, arabic with diacritics
 
